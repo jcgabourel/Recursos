@@ -17,7 +17,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 "Gentelella Theme Browser Preview")
 
 
-# [AdminLTE - Bootstrap 4 Admin Dashboard] (https://adminlte.io)
+# [AdminLTE - Bootstrap 4 Admin Dashboard](https://adminlte.io)
 
 **AdminLTE** is a fully responsive administration template. Based on **[Bootstrap 4.6](https://getbootstrap.com/)** framework and also the JS/jQuery plugin.
 Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops.
