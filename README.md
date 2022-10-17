@@ -29,4 +29,10 @@ Highly customizable and easy to use. Fits many screen resolutions from small mob
 !["AdminLTE Presentation"](https://adminlte.io/AdminLTE3.png "AdminLTE Presentation")
 
  
+ # [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
+ # [CoreUI Free Laravel Bootstrap Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
+ # [CoreUI Free Vue Laravel Bootstrap Admin Template](https://github.com/coreui/coreui-free-vue-laravel-admin-template)
+ # [CoreUI Free Vue Admin Template v4](https://github.com/coreui/coreui-free-vue-admin-template)
+ 
+ [![Bootstrap Admin Template](https://coreui.io/images/github/vue-free-template-3.gif)](https://coreui.io/)
 
