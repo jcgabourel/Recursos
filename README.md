@@ -31,6 +31,7 @@ Highly customizable and easy to use. Fits many screen resolutions from small mob
  
  # [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
  # [CoreUI Free Laravel Bootstrap Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template)
+ usar este para mvp
  # [CoreUI Free Vue Laravel Bootstrap Admin Template](https://github.com/coreui/coreui-free-vue-laravel-admin-template)
  # [CoreUI Free Vue Admin Template v4](https://github.com/coreui/coreui-free-vue-admin-template)
  
